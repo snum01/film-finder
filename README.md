@@ -1,69 +1,50 @@
-#!/bin/bash
 
-# Film Finder Web App README Script
+```markdown
+# Film Finder Web App
 
-# Define variables
-APP_NAME="Film Finder Web App"
-LOGO_URL="![Film Finder Logo](img/logo.png)"
-REPO_URL="https://github.com/snum01/film-finder"
+![Film Finder Logo](img/logo.png)
 
-# Introduction
-echo "# $APP_NAME"
-echo
-echo "$LOGO_URL"
-echo
-echo "$APP_NAME is a web application that allows users to search for movies by title, view movie details, and discover popular movies."
-echo
+Film Finder Web App is a web application that allows users to search for movies by title, view movie details, and discover popular movies.
 
-# Features
-echo "## Features"
-echo
-echo "- Search for movies by title."
-echo "- View movie details including title, rating, and overview."
-echo "- Discover popular movies."
-echo
+## Features
 
-# Getting Started
-echo "## Getting Started"
-echo
-echo "To run the $APP_NAME locally, follow these steps:"
-echo
-echo "1. Clone this repository to your local machine:"
-echo
-echo "   \`\`\`bash"
-echo "   git clone https://github.com/snum01/film-finder"
-echo "   \`\`\`"
-echo
-echo "2. Open the \`index.html\` file in your preferred web browser."
-echo "3. Start searching for movies by title!"
-echo
+- Search for movies by title.
+- View movie details including title, rating, and overview.
+- Discover popular movies.
 
-# Dependencies
-echo "## Dependencies"
-echo
-echo "- This web app uses [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch movie data."
-echo
+## Getting Started
 
-# Technologies Used
-echo "## Technologies Used"
-echo
-echo "- HTML"
-echo "- CSS"
-echo "- JavaScript"
-echo
+To run the Film Finder Web App locally, follow these steps:
 
-# Contributing
-echo "## Contributing"
-echo
-echo "Contributions are welcome! If you have any suggestions, feature requests, or find any issues, please [open an issue](https://github.com/snum01/film-finder/issues) or [create a pull request](https://github.com/snum01/film-finder/pulls)."
-echo
+1. Clone this repository to your local machine:
 
-# License
-echo "## License"
-echo
-echo "This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details."
-echo
+   ```bash
+   git clone https://github.com/snum01/film-finder
+   ```
 
-# Authors
-Stanley Umukoro
-David Agor
+2. Open the `index.html` file in your preferred web browser.
+3. Start searching for movies by title!
+
+## Dependencies
+
+- This web app uses [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch movie data.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, feature requests, or find any issues, please [open an issue](https://github.com/snum01/film-finder/issues) or [create a pull request](https://github.com/snum01/film-finder/pulls).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Authors
+
+- Stanley Umukoro
+- David Agor
+```
