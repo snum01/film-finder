@@ -2,7 +2,8 @@
 ```markdown
 # Film Finder Web App
 
-![Film Finder Logo]([img/logo.png](https://github.com/snum01/film-finder/blob/master/img/logo.png))
+![Film Finder Logo](./img/logo.png)
+
 
 Film Finder Web App is a web application that allows users to search for movies by title, view movie details, and discover popular movies.
 
